@@ -22,10 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Solution URL here](https://github.com/ShakhawatNaim/Sunnyside-agency-landing-page.git)
+- Live Site URL: [Live site URL here](https://shakhawatnaim.github.io/Sunnyside-agency-landing-page/)
 
 ### Built with
 
@@ -37,6 +35,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Shakhawat Naim](https://github.com/ShakhawatNaim)
+- Github - [Shakhawat Naim](https://github.com/ShakhawatNaim)
 - Frontend Mentor - [@ShakhawatNaim](https://www.frontendmentor.io/profile/ShakhawatNaim)
 - Linkedin - [@shakhawatnaim](https://www.linkedin.com/in/shakhawatnaim/)
